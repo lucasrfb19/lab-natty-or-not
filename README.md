@@ -2,50 +2,31 @@
 
 ## 🚀 Introdução
 
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+ # Críticas com CHAT GPT OU OUTRAS IAs ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Gerar críticas realistas utilizando IAs.
+-----------------------------------------
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+  -Microsoft Copilot
+  -Chat GPT
+  -Claude
+----------------------------------------
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Primeiramente tive o insight, que seria gerar uma crítica utilizando uma visão compartilhada entre IAs. 
+Primeiro fui no Copilot, que tem problemas com a quantidade de caractéres. Em seguida testei no Chat GPT e por último no Claude. Deixarei o prompt utilizado em outro arquivo.
+----------------------------------------
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Aqui está o primeiro paragráfo:
+---------------------------------------
+"Deadpool and Wolverine" é um filme que equilibra nostalgia e inovação, combinando a irreverência de Deadpool com a brutalidade de Wolverine. Dirigido por Shawn Levy, o filme não é apenas um espetáculo de ação, mas também uma celebração do legado de dois dos personagens mais amados da Marvel. A química entre Ryan Reynolds e Hugh Jackman é inegável, com ambos atores entregando performances que capturam a essência de seus personagens enquanto exploram novas camadas emocionais.
+---------------------------------------
+E aqui está o link da crítica completa: [https://github.com/lucasrfb19/Cr-ticas-com-IA/blob/main/cr%C3%ADtica%20Deadpool%20and%20Wolverine](https://github.com/lucasrfb19/Cr-ticas-com-IA/tree/main)
+----------------------------------------
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
-
-### Exemplos e Insigths
-
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+Fantástico. As IAs vieram pra auxiliar e otimizar o trabalho de quem usa. Também vejo a possibilidade de maximizar minhas hards skills ao utilizar IAs generativas.
+----------------------------------------
